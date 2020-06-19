@@ -17,3 +17,8 @@ Versión: 0.1
 */
 
 @import url(«../twentytwenty/style.css»);
+
+.site-title.faux-heading {
+
+    color: green
+}
